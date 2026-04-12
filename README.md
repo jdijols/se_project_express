@@ -14,6 +14,11 @@ The back-end project is focused on creating a server for the WTWR application. U
 - RESTful API design
 - Centralized error handling with status codes
 
+## Accessing the application
+
+- **Deployed application:** [https://wtwr.thedesktop.com/](https://wtwr.thedesktop.com/)
+- **Frontend repository:** [se_project_react on GitHub](https://github.com/jdijols/se_project_react)
+
 ## Running the Project
 
 `npm run start` — to launch the server
@@ -26,7 +31,9 @@ The back-end project is focused on creating a server for the WTWR application. U
 
 Before committing your code, make sure you edit the file `sprint.txt` in the root folder. The file `sprint.txt` should contain the number of the sprint you're currently working on. For ex. 13
 
- ## Project Pitch Video
- 
- Check out [this video](https://www.loom.com/share/9a2ad18f5bf64395847dfe0e6f836974), where I describe my 
- project and some challenges I faced while building it.
+## Project Pitch Videos
+
+Check out these videos, where I describe my project and some challenges I faced while building it:
+
+- [WTWR project overview and build walkthrough](https://www.loom.com/share/9a2ad18f5bf64395847dfe0e6f836974)
+- [WTWR final project pitch: demo, architecture, and challenges](https://www.loom.com/share/3ee3e93cee024494958e3599d20c3110)
